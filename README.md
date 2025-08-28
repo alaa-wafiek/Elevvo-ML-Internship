@@ -10,7 +10,8 @@ Explored relationships between study hours, participation, and other factors.
 
 Tech stack: Python, Pandas, Scikit-learn, Matplotlib
 
-🔗 [View Project](./T1_StudentScorePrediction/notebook.ipynb)
+🔗 [View Project](https://github.com/alaa-wafiek/Elevvo-ML-Internship/blob/main/T1_StudentScorePrediction.ipynb)
+
 
 2.  Customer Segmentation
 
@@ -20,7 +21,7 @@ Visualized clusters and analyzed spending behavior per group.
 
 Tech stack: Python, Pandas, Scikit-learn, Matplotlib
 
-🔗 [View Project](./T2_Mall_Customer_Segmentation_using_KMeans/notebook.ipynb)
+🔗 [View Project](https://github.com/alaa-wafiek/Elevvo-ML-Internship/blob/main/T2_Mall_Customer_Segmentation_using_KMeans.ipynb)
 
 3.  Loan Approval Prediction
 
@@ -32,7 +33,7 @@ Evaluated performance with precision, recall, and F1-score.
 
 Tech stack: Python, Pandas, Scikit-learn
 
-🔗 [View Project](./T3_LoanApprovalPrediction/notebook.ipynb).
+🔗 [View Project](https://github.com/alaa-wafiek/Elevvo-ML-Internship/blob/main/T3_LoanApprovalPrediction.ipynb)
 
 4.  Movie Recommendation System
 
