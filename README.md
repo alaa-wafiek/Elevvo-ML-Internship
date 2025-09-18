@@ -39,7 +39,7 @@ Tech stack: Python, Pandas, Scikit-learn
 
 Developed a collaborative filtering system using the MovieLens dataset.
 
-Implemented user-user similarity, item-based filtering, and Matrix Factorization (SVD).
+Implemented User–User Collaborative Filtering (similarity-based), Matrix Factorization (latent factor model), and Neural Network Recommender (nonlinear embeddings).
 
 Evaluated recommendations with Precision@K.
 
