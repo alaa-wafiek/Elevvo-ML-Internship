@@ -45,7 +45,7 @@ Evaluated recommendations with Precision@K.
 
 Tech stack: Python, Pandas, Numpy, Scikit-learn
 
-🔗 View Project
+🔗 [View Project](https://github.com/alaa-wafiek/Elevvo-ML-Internship/blob/main/T4_Movie_Recommendation_System.ipynb).
 
 5.  Traffic Sign Recognition
 
